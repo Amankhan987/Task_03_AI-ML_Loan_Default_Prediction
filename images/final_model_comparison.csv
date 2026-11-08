@@ -1,0 +1,5 @@
+Model,Tuning Time (s),CV F1,Accuracy,Precision,Recall,F1 Score,ROC-AUC
+Gradient Boosting,228.1,0.8311,0.9405,0.9751,0.7468,0.8458,0.9514
+XGBoost,44.1,0.8314,0.9389,0.9758,0.7391,0.8411,0.9511
+Random Forest,178.7,0.8238,0.9371,0.9819,0.7257,0.8345,0.9392
+Decision Tree,15.6,0.8143,0.9347,0.9752,0.72,0.8284,0.9183

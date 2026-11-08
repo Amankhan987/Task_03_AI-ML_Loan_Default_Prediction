@@ -1,0 +1,5 @@
+Model,Accuracy Before,Accuracy After,Precision Before,Precision After,Recall Before,Recall After,F1 Before,F1 After,AUC Before,AUC After,F1 Change,Recall Change
+Decision Tree,0.8936,0.9347,0.7398,0.9752,0.792,0.72,0.765,0.8284,0.857,0.9183,0.0634,-0.072
+Random Forest,0.9352,0.9371,0.9699,0.9819,0.7264,0.7257,0.8306,0.8345,0.9367,0.9392,0.0039,-0.0007
+Gradient Boosting,0.931,0.9405,0.95,0.9751,0.7228,0.7468,0.821,0.8458,0.9325,0.9514,0.0248,0.024
+XGBoost,0.9397,0.9389,0.9849,0.9758,0.7355,0.7391,0.8421,0.8411,0.9499,0.9511,-0.001,0.0036
