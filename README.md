@@ -2,7 +2,7 @@
 
 **Devixo Solutions | AI/ML Internship Program | Task 03: End-to-End Machine Learning Project**
 
-**Author:** Aman Khan  
+**Author:** Aman Hameed Ullah 
 **Internship Domain:** AI/ML
 
 ## Project Objective
@@ -99,7 +99,7 @@ Task_03_AI_ML/
    ```
    streamlit run app/app.py
    ```
-   Live app: [your-streamlit-link]
+   Live app: https://task03ai-mlloandefaultprediction.streamlit.app/
 
 ## Author
-**Aman Khan** | AI/ML Intern, Devixo Solutions
+**Aman Hameed Ullah** | AI/ML Intern, Devixo Solutions
